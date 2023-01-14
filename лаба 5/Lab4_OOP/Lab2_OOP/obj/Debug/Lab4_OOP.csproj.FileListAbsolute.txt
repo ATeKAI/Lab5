@@ -1,0 +1,55 @@
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.dll
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.pdb
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.AssemblyReference.cache
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.GenerateResource.cache
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CoreCompileInputs.cache
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CopyComplete
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+C:\Users\idavl\source\repos\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.Form1.resources
+D:\Альберт\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+D:\Альберт\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+D:\Альберт\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+D:\Альберт\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.dll
+D:\Альберт\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.pdb
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.AssemblyReference.cache
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.SuggestedBindingRedirects.cache
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.Form1.resources
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.GenerateResource.cache
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CoreCompileInputs.cache
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CopyComplete
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+D:\Альберт\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.dll
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.pdb
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.AssemblyReference.cache
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.Form1.resources
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.GenerateResource.cache
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CopyComplete
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+C:\Users\Искандерка\Desktop\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.AssemblyReference.cache
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.SuggestedBindingRedirects.cache
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.Form1.resources
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.GenerateResource.cache
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CoreCompileInputs.cache
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.dll
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\bin\Debug\MyFigures.pdb
+D:\Альберт\лаба 5\Lab4_OOP\Lab2_OOP\obj\Debug\Lab4_OOP.csproj.CopyComplete
